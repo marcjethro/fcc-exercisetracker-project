@@ -11,9 +11,6 @@
 		"express": "^4.16.4",
 		"cors": "^2.8.5"
 	},
-	"repository": {
-		"url": "https://github.com/freeCodeCamp/boilerplate-project-exercisetracker"
-	},
 	"license": "MIT",
 	"keywords": [
 		"node",
